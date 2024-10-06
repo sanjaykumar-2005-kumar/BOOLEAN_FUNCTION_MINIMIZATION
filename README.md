@@ -54,12 +54,15 @@ assign f1=x1|x2|x3|x4|x5;
 endmodule
 ```
 RTL realization:
+
 ![image](https://github.com/user-attachments/assets/98d18249-2fb3-4dea-ae6f-4f28c78dc5f4)
 
 Truth Table:
+
 ![image](https://github.com/user-attachments/assets/4b4612fd-8ef3-4c73-8935-eb466682f521)
 
 Timing Diagram:
+
 ![image](https://github.com/user-attachments/assets/5c1dbc53-73da-418c-bedf-e24b994307a4)
 
 Result:
